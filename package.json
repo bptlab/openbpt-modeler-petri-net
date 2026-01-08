@@ -33,23 +33,23 @@
   },
   "dependencies": {
     "bpmn-font": "^0.12.1",
-    "diagram-js": "^15.3.0",
+    "diagram-js": "^15.5.0",
     "diagram-js-direct-editing": "^3.2.0",
     "ids": "^1.0.5",
     "inherits": "^2.0.4",
     "jquery": "^3.7.1",
     "min-dash": "^4.2.3",
-    "min-dom": "^5.1.1",
+    "min-dom": "^5.1.2",
     "moddle": "^7.2.0",
     "moddle-xml": "^11.0.0",
     "object-refs": "^0.4.0",
-    "pnml-moddle-converter": "^1.0.1",
-    "tiny-svg": "^4.1.3"
+    "pnml-moddle-converter": "^1.0.2",
+    "tiny-svg": "^4.1.4"
   },
   "devDependencies": {
-    "eslint": "^9.35.0",
-    "eslint-config-prettier": "^10.1.5",
+    "eslint": "^9.39.2",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.4",
-    "prettier": "^3.6.2"
+    "prettier": "^3.7.4"
   }
 }
